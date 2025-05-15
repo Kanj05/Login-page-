@@ -23,3 +23,18 @@ HTML5
 CSS3 (Flexbox, transitions, gradients)
 
 JavaScript (Vanilla)
+
+
+
+How to Use
+
+1. Clone or download the repository.
+
+
+2. Open the index.html file in any web browser.
+
+
+3. No server or additional setup required.
+
+
+
